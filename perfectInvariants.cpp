@@ -1,8 +1,7 @@
 /*
   Justin Bombay
-  CS 202 - 1003
-  Dr. Vasko
-  Assignment 1
+  --Perfect Invariants Project--
+  ** Please refer to the description below for more explanation on this project.**
 */
 
 #include <cmath>
