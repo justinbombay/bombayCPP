@@ -1,9 +1,7 @@
 /*
   Justin Bombay
-  CS 202 - 1003
-  Dr. Vasko
-  Assignment 4
-  sixteen.cpp
+  -- sixteen.cpp -- 
+  -- Coded in C++ --
 */
 
 #include <iomanip>
