@@ -1,8 +1,7 @@
 /*
   Justin Bombay
-  CS 302 - 1003
-  Dr. Vasko
-  Assignment 02
+  --Stars and Binary Number Conversion Project--
+  --Coded in C++--
 */
 
 #include <iostream>
