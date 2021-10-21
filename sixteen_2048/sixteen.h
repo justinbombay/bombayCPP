@@ -1,9 +1,7 @@
 /*
   Justin Bombay
-  CS 202 - 1003
-  Dr. Vasko
-  Assignment 4
-  sixteen.h
+  -- sixteen.h -- 
+  -- Coded in C++ --
 */
 
 class sixteen {
