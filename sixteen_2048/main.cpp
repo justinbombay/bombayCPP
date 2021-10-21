@@ -1,9 +1,7 @@
 /*
   Justin Bombay
-  CS 202 - 1003
-  Dr. Vasko
-  Assignment 4
   main.cpp
+  
 */
 
 #include <cctype>
