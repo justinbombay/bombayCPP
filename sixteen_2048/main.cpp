@@ -1,6 +1,7 @@
 /*
   Justin Bombay
-  main.cpp
+  -- main.cpp --
+  -- Coded in C++ --
   
 */
 
