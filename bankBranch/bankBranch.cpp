@@ -1,8 +1,6 @@
 /*
   Justin Bombay
-  CS 202 - 1003
-  Dr. Vasko
-  Assignment 3
+  Coded in C++
   bankBranch.cpp
 */
 
