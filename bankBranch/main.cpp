@@ -1,8 +1,5 @@
 /*
   Justin Bombay
-  CS 202 - 1003
-  Dr. Vasko
-  Assignment 3
   main.cpp
 */
 
