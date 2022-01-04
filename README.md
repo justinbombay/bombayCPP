@@ -14,12 +14,12 @@ In this repository I've posted 4 projects that have all been written in C++. I'v
  ### <ins> 2. sixteen_2048 Project (Folder) </ins> <br>
   A puzzle game where you combine numbered tiles with the same value in order to gain a higher numbered tile, inspired by the game "2048". The layout is a 4 x 4 
   grid and users use the commands "U, D, L, R" (UP, DOWN, LEFT, RIGHT) in order to move the tiles in their desired direction. The program was originally made to
-  stop once the numnber "16" has been reached, but it has since been modified to stop at "64". 
+  stop once the number "16" has been reached, but it has since been modified to stop at "64". 
  \
  \
 <br>
 ### <ins> 3. Perfect Invariants Project (.cpp file) </ins> <br>
-A program that finds perfect digital invariants that are within the range from 10,000 to 99,999. For further explanation, a perfect digital invaraint is a number in a given number base b that is the sum of its own digits each raised to a given power p. For example, 4,150 == 4^5 + 1^5 + 5^5 + 0^5. 
+A program that finds perfect digital invariants that are within the range from 10,000 to 99,999. For further explanation, a perfect digital invariant is a number in a given number base b that is the sum of its own digits each raised to a given power p. For example, 4,150 == 4^5 + 1^5 + 5^5 + 0^5. 
 \
 \
 <br>
