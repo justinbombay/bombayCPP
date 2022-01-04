@@ -17,12 +17,12 @@ In this depository I've posted 4 programs that have all been written in C++. I'v
  \
  \
  \
- <ins> ** 3. Perfect Invariants Project (.cpp file) ** </ins>
+ <ins> ** 3. Perfect Invariants Project (.cpp file) ** </ins> <br>
 A program that finds perfect digital invariants that are within the range from 10,000 to 99,999. For further explanation, a perfect digital invaraint is a number in a given number base b that is the sum of its own digits each raised to a given powerp. For example, 4,150 == 4^5 + 1^5 + 5^5 + 0^5. 
 \
 \
 \
- <ins> ** 4. Stars and Binary Numbers Project (.cpp file) ** </ins>
+ <ins> ** 4. Stars and Binary Numbers Project (.cpp file) ** </ins> <br>
  This program is split into two parts. The first half of this program uses functions to print out an amount of stars (*) recursively based on the user's input. The
  2nd half of the program utilizes a stack to convert the user's choice of an integer into a binary number. 
 \
@@ -33,5 +33,5 @@ find that I've commented elaborately on each .cpp file for a better understandin
 \
 \
 \
-  Thanks for stopping by,
+  Thanks for stopping by, <br>
   Justin 
