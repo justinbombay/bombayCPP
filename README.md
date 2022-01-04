@@ -1,6 +1,6 @@
 # bombayCPP
-Hello,
-In this depository I've posted 4 programs that have all been written in C++. I've listed the names and descriptions of those four projects below:
+Hello, <br>
+In this depository I've posted 4 projects that have all been written in C++. I've listed the names and descriptions of those four projects below:
 \
 \
 <br>
