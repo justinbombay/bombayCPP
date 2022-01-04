@@ -12,8 +12,9 @@ In this depository I've posted 4 projects that have all been written in C++. I'v
  \
  <br>
  ### <ins> ** 2. sixteen_2048 Project (Folder) ** </ins> <br>
-  A puzzle game where you combine numbered tiles with the same value in order to gain a higher numbered tile, inspired by the game "2048". The program
-  was originally made to stop once the numnber "16" has been reached, but it has since been modified to stop at "128". 
+  A puzzle game where you combine numbered tiles with the same value in order to gain a higher numbered tile, inspired by the game "2048". The layout is a 4 x 4 
+  grid and users use the commands "U, D, L, R" (UP, DOWN, LEFT, RIGHT) in order to move the tiles in their desired direction. The program was originally made to
+  stop once the numnber "16" has been reached, but it has since been modified to stop at "64". 
  \
  \
 <br>
