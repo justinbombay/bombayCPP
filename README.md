@@ -6,12 +6,14 @@ In this depository I've posted 4 programs that have all been written in C++. I'v
 \
  ** 1. Bank Branch Program (Folder) ** 
  \
-         - A program where it reads in a file containing user information and prompts the current user for their pin in order to match records within the file.
-         Based on the user's input, the program determines if the user is authenticated. If the user is authenticated, they will be allowed to access, withdraw
-         from, or deposit into their bank account. If the user is not authenticated, they are allowed 3 tries before the program will exit. 
+ \
+    - A program where it reads in a file containing user information and prompts the current user for their pin in order to match records within the file. Based on
+      the user's input, the program determines if the user is authenticated. If the user is authenticated, they will be allowed to access, withdraw from, or deposit 
+      into their bank account. If the user is not authenticated, they are allowed 3 tries before the program will exit. 
  \
  \
  ** 2. sixteen_2048 Program (Folder) ** 
+ \
  \
         - A puzzle game where you combine numbered tiles with the same value in order to gain a higher numbered tile, inspired by the game "2048". The program
           was originally made to stop once the numnber "16" has been reached, but it has since been modified to stop at "128". \
