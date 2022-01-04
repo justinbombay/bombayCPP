@@ -3,7 +3,7 @@
   -- Perfect Invariants Project --
   -- Coded in C++ --
   This program finds perfect digital invariants that are within the range from 10,000 to 99,999. 
-  For further explanation, a perfect digital invaraint is a number in a given number base b that is the sum of its own digits each raised to a given power p. 
+  For further explanation, a perfect digital invariant is a number in a given number base b that is the sum of its own digits each raised to a given power p. 
   For example, 4,150 == 4^5 + 1^5 + 5^5 + 0^5.
 */
 
