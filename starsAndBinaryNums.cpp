@@ -2,6 +2,9 @@
   Justin Bombay
   --Stars and Binary Number Conversion Project--
   --Coded in C++--
+  
+  This program is split into two parts. The first half of this program uses functions to print out an amount of stars (*) recursively based on the user's input. 
+  The 2nd half of the program also utilizes a stack to convert the user's choice of an integer into a binary number. 
 */
 
 #include <iostream>
@@ -39,6 +42,7 @@ int main(){
 } // END INT MAIN()
 
 
+// --------FUNCTIONS---------
 
 // DRAW STARS FUNCTION
 void drawStars(int amount){
