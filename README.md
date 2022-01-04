@@ -4,7 +4,7 @@ In this depository I've posted 4 programs that have all been written in C++. I'v
 \
 \
 \
- ** 1. Bank Branch Program (Folder) ** 
+ <ins> ** 1. Bank Branch Program (Folder) ** </ins>
  \
  \
     - A program where it reads in a file containing user information and prompts the current user for their pin in order to match records within the file. Based on
@@ -12,14 +12,14 @@ In this depository I've posted 4 programs that have all been written in C++. I'v
       into their bank account. If the user is not authenticated, they are allowed 3 tries before the program will exit. 
  \
  \
- ** 2. sixteen_2048 Program (Folder) ** 
+ <ins> ** 2. sixteen_2048 Program (Folder) ** </ins>
  \
  \
         - A puzzle game where you combine numbered tiles with the same value in order to gain a higher numbered tile, inspired by the game "2048". The program
-          was originally made to stop once the numnber "16" has been reached, but it has since been modified to stop at "128". \
+          was originally made to stop once the numnber "16" has been reached, but it has since been modified to stop at "128". 
           
  
- ** 3. Perfect Invariants Project (.cpp file) ** 
+ <ins> ** 3. Perfect Invariants Project (.cpp file) ** </ins>
  \
  \
         - A program that finds perfect digital invariants that are within the range from 10,000 to 99,999. 
@@ -27,7 +27,7 @@ In this depository I've posted 4 programs that have all been written in C++. I'v
           p. For example, 4,150 == 4^5 + 1^5 + 5^5 + 0^5. \
 \
 \
- ** 5. Stars and Binary Numbers Project (.cpp file) ** 
+ <ins> ** 4. Stars and Binary Numbers Project (.cpp file) ** </ins>
  \
         - This program is split into two parts. The first half of this program uses functions to print out an amount of stars (*) recursively based on the user's
           input. The 2nd half of the program utilizes a stack to convert the user's choice of an integer into a binary number. 
