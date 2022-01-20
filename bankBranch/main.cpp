@@ -34,7 +34,7 @@ int main(){
 
   // Prompts user for file
   cout << endl;
-  cout << "Enter file name to begin this program...again: ";
+  cout << "Enter file name to begin this program: ";
   cin >> filename;
 
   // Do loop error checks the file the user input
