@@ -92,7 +92,7 @@ using namespace std;
         return check;
       }
 
-      // If the pin does does atch the pin of the index in the array, then the amount of attempts increases
+      // If the pin does not match the pin of the index in the array, then the amount of attempts increases
       // and the boolean expression returned is false
       else {
           attempts[index]++;
